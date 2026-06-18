@@ -203,6 +203,14 @@ h4 {
   margin: 8px 0;
 }
 
+.hobby-photo {
+  width: 100%;
+  max-width: 500px;
+  border-radius: 8px;
+  margin-top: 20px;
+}
+
+
 /** Footer **/
 #footer {
   height: 80px;
